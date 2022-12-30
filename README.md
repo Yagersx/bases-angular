@@ -1,3 +1,3 @@
 # Bases
 
-Repasando las bases de angular by Irving:)
+Repasando bases de angular 2+ Irving:)
